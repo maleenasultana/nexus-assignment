@@ -1,0 +1,66 @@
+.left{
+    margin-top: 100px;
+}
+.right{
+    margin-left: 300px;
+    margin-top: 1px;
+}
+.font{
+    height: 10px;
+    width: 10px;
+    color: whitesmoke;
+    
+
+}
+.btn{
+    display:flex;
+    align-items: center;
+    color: white;
+    border-width: 1px;
+    padding: 4px;
+    margin: 2px;
+    border: 1px solid;
+    border-color: white;
+}
+.btn:hover{
+    color: whitesmoke;
+}
+.arrow{
+    height: 10px;
+    width: 20px;
+}
+.card-title{
+    font-size:x-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nurture {
+    height: 350px;
+    width: 350px;
+    align-items: center;
+}
+.polish {
+    height: 300px;
+    width: 400px;
+    align-items: center;
+}
+.card-text{
+    display: flex;
+    flex-direction: column;
+    margin-left: 65px;
+}
+.soaps{
+    display: flex;
+    flex-direction: row;
+    margin-left: 400px;
+    justify-self: center;
+    align-items: center;
+   
+}
+.soaps > p{
+    text-align: center;
+    justify-content: center;
+}
+.text-start{
+    color: white;
+}

@@ -1,0 +1,27 @@
+.navbar{
+    position: relative;
+}
+
+.navbar-brand{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: 200px;
+    
+}
+.navbar-brand:hover{
+    text-decoration: underline;
+}
+.glass{
+    height: 25px;
+    width: 25px;
+}
+.right{
+    margin-left: 350px;
+}
+.right-1{
+    margin-left: 20px;
+}
+.right-2{
+    margin-left:20px;
+}
