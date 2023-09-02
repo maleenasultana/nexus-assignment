@@ -103,17 +103,17 @@ const Navbar = () => {
                 </a>
               </li>             
               <li className="nav-item">
-                <a className="right" aria-current="page" href="#">
+                <a className="text-end" aria-current="page" href="#">
                   Login
                 </a>
               </li>
               <li className="nav-item">
-                <a className="right-1" aria-current="page" href="#">
+                <a className="text-end" aria-current="page" href="#">
                   Cabinet
                 </a>
               </li>
               <li className="nav-item">
-                <a className="right-2" aria-current="page" href="#">
+                <a className="text-end" aria-current="page" href="#">
                   Cart
                 </a>
               </li>

@@ -6,7 +6,7 @@ const Hero = () => {
       <div className="card bg-dark text-white">
         <img
           src="https://www.aesop.com/u1nb1km7t5q7/AGQGWYrTapcQI1NrPvsYU/11e99769c1767531dd3c12b6fce85f37/Aesop_Bar_Soaps_2023_Web_Homepage_2_Primary_Full_Bleed_Desktop_2880x1044px.jpg"
-          className="card-img"
+          className="img-fluid"
           alt="..."
         />
         <div className="card-img-overlay">
@@ -22,7 +22,7 @@ const Hero = () => {
             <div className="right">
               <h6>Bar Soaps</h6>
               <h3 className="card-title">A body care classic,</h3>
-              <p className="card-text">
+              <p className="text-sm-start mx-2">
                 Breathing new life into the humble bar soap are <br />
                 Nurture, Polish and Refresh—three additions to the <br />
                 range, each imparting a unique constellation of

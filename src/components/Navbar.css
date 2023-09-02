@@ -17,13 +17,13 @@
     width: 25px;
 }
 .right{
-    margin-left: 350px;
+    margin-left: auto;
 }
 .right-1{
-    margin-left: 20px;
+    margin-left:auto;
 }
 .right-2{
-    margin-left:20px;
+    margin-left:auto;
 }
 .nav-link{
     font-size:smaller;
