@@ -45,12 +45,12 @@ const Navbar = () => {
             <ul className="navbar-nav me-auto mb-2 mb-lg-0 mx-4">
               <li className="nav-item">
                 <a className="nav-link active" aria-current="page" href="#">
-                  Skin Care
+                  SkinCare
                 </a>
               </li>
               <li className="nav-item">
                 <a className="nav-link active" aria-current="page" href="#">
-                  Body & Hand
+                  Body&Hand
                 </a>
               </li>
               <li className="nav-item">
@@ -70,7 +70,7 @@ const Navbar = () => {
               </li>
               <li className="nav-item">
                 <a className="nav-link active" aria-current="page" href="#">
-                  Kits & Travel
+                  Kits&Travel
                 </a>
               </li>
               <li className="nav-item">
@@ -90,7 +90,7 @@ const Navbar = () => {
               </li>
               <li className="nav-item">
                 <a className="nav-link active" aria-current="page" href="#">
-                  Facial Appointments
+                  FacialAppointments
                 </a>
               </li>
               <li className="nav-item">
@@ -104,7 +104,7 @@ const Navbar = () => {
               </li>             
               <li className="nav-item">
                 <a className="right" aria-current="page" href="#">
-                  Log in
+                  Login
                 </a>
               </li>
               <li className="nav-item">

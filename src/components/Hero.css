@@ -47,7 +47,7 @@
 .card-text{
     display: flex;
     flex-direction: column;
-    margin-left: 65px;
+    margin-left: auto;
 }
 .soaps{
     display: flex;
